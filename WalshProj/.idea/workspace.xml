@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ea8ca26-401f-4582-8cf3-fb7aa2a39c55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IcaoSort2/IcaoSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVS_edu/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navarea/Navarea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PG_connect/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c0_Logic/c0_Logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old/WalshDecode/WalshDecode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/src/main/java/org/example/MyAmazingBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/src/main/java/parcers/OpenWeatherMapJsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/src/main/java/parcers/WeatherParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/GetTextFromWav.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/GetTextFromWav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/WaveVisualization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/src/main/java/org/example/WaveVisualization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/src/main/resources/newGen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/src/main/resources/newGen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/newGen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/newGen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/GetTextFromWav.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/GetTextFromWav.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/WaveVisualization$PaintService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/WaveVisualization$PaintService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/WaveVisualization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/classes/org/example/WaveVisualization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/original-sample-javafx-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/original-sample-javafx-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/sample-javafx-2.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/sample-javafx-2.0-SNAPSHOT-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-javafx/target/sample-javafx-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-javafx/target/sample-javafx-2.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PDcNoFN8zel6PxxkaHruHB0WSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java1/WalshProj/sample-javafx/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43103448&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java1\WalshProj\sample-javafx\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GUIStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GUIStarter" />
+      <module name="WalshProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUIStarter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea8ca26-401f-4582-8cf3-fb7aa2a39c55" name="Changes" comment="" />
+      <created>1682995055810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682995055810</updated>
+      <workItem from="1682995056963" duration="14000" />
+      <workItem from="1683761264114" duration="973000" />
+      <workItem from="1683774421365" duration="1954000" />
+      <workItem from="1683960813310" duration="165000" />
+      <workItem from="1684299952373" duration="95000" />
+      <workItem from="1684903375790" duration="44000" />
+      <workItem from="1689143263250" duration="621000" />
+      <workItem from="1689909454609" duration="576000" />
+      <workItem from="1690781714977" duration="2000" />
+      <workItem from="1690781731264" duration="606000" />
+      <workItem from="1690795939326" duration="56000" />
+      <workItem from="1691044634352" duration="10894000" />
+      <workItem from="1691100450969" duration="357000" />
+      <workItem from="1691277025817" duration="609000" />
+      <workItem from="1691301613705" duration="605000" />
+      <workItem from="1691307760524" duration="4711000" />
+      <workItem from="1691312499937" duration="53000" />
+      <workItem from="1691312604017" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-javafx/src/main/java/org/example/Decode.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-javafx/src/main/java/org/example/Decode.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-javafx/src/main/java/org/example/Decode.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-javafx/src/main/java/org/example/Decode.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
